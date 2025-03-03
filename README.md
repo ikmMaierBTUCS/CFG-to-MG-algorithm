@@ -15,5 +15,6 @@ N -> mouse
 V -> WO
 W -> eats
 O -> cheese
-
+'''
 cfg2mg([('S','NV','cSentence'),('N','mouse','cAnimal'),('V','WO','cVerbphrase'),('W','eats','cVerb'),('O','cheese','cFood')])
+'''
